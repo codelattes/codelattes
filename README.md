@@ -1,4 +1,14 @@
-## Hi there 👋
+⊹ ࣪ ˖ about:
+
+a developer who loves creating things and learning along the way. 
+
+outside of tech, i enjoy exploring cafes & spending time in nature :) ☕🌸
+
+---------------------------------------------------------------------
+
+✉︎ connect with me:
+
+[linkedin](https://www.linkedin.com/in/monceller-ashley/)
 
 <!--
 **codelattes/codelattes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
